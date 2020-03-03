@@ -1,4 +1,6 @@
-package epam_task;
+package epam_task6;
+
+import epam_task6.List;
 
 public class Main
 {
